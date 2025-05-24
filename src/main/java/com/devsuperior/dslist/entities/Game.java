@@ -54,12 +54,12 @@ public class Game {
 	}
 
 
-	public Long getIdLong() {
+	public Long getId() {
 		return id;
 	}
 
 
-	public void setIdLong(Long idLong) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
